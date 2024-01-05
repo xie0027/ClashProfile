@@ -1,0 +1,2 @@
+proxies:
+  - {name: 解锁, server: 192.168.10.254, port: 5200, type: http}
